@@ -1,0 +1,18 @@
+healthcare-financial-analytics/
+│── data/
+│   ├── pharmacy.csv
+│   ├── lab.csv
+│   ├── eligibility.csv
+│
+│── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_risk_scoring.ipynb
+│   ├── 03_dashboard_demo.ipynb
+│
+│── src/
+│   ├── etl_pipeline.py
+│   ├── risk_scoring.sql
+│   ├── dashboard_app.py
+│
+│── requirements.txt
+│── README.md
