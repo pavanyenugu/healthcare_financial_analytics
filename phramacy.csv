@@ -1,0 +1,6 @@
+patient_id,drug_name,quantity,unit_price,,,
+P001,Metformin,30,0.50,,,
+P002,Lisinopril,60,0.40,,,
+P003,Atorvastatin,90,0.60,,,
+P004,Albuterol,20,1.20,,,
+P005,Insulin,10,25.00,,,

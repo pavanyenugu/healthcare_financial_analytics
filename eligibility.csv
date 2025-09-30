@@ -1,0 +1,6 @@
+patient_id,eligibility_status,start_date,end_date,,,
+P001,Active,2024-01-01,2024-12-31,,,
+P002,Inactive,2023-05-01,2023-10-31,,,
+P003,Active,2024-02-15,2024-12-31,,,
+P004,Active,2024-03-01,2024-12-31,,,
+P005,Active,2024-01-01,2024-12-31,,,

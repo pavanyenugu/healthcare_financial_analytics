@@ -1,0 +1,6 @@
+patient_id,lab_test,result_flag,,,,
+P001,HbA1c,ABNORMAL,,,,
+P002,Blood Pressure,NORMAL,,,,
+P003,Cholesterol,ABNORMAL,,,,
+P004,Spirometry,ABNORMAL,,,,
+P005,Blood Sugar,ABNORMAL,,,,
